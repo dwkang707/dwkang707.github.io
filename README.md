@@ -5,6 +5,7 @@
 2. StudentID: 2017097229
 3. Major: Computer Science
 
-## My interests: Cloud(AWS, Azure)
-1. [AWS](https://aws.amazon.com)
-2. [Azure](https://azure.microsoft.com)
+## My interests
+1. Cloud(AWS, Azure)
+* [AWS](https://aws.amazon.com)
+* [Azure](https://azure.microsoft.com)
