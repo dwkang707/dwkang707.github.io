@@ -5,7 +5,7 @@
 ## Introduction
 1. Name: Dongwan Kang
 2. StudentID: 2017097229
-3. Major: Computer Science
+3. Major: Major in Computer
 
 ## My interests
 1. Cloud(AWS, Azure)
